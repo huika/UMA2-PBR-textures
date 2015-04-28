@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c4834e6077abe64e968f9f87c9ac70a, type: 3}
+  m_Name: MaleJeans01
+  m_EditorClassIdentifier: 
+  overlayName: MaleJeans01
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  textureList:
+  - {fileID: 2800000, guid: 68d4c2fa28b95d9448cab06a1996c97f, type: 3}
+  - {fileID: 2800000, guid: 1da3b2bce9315f74ab874b8178057c34, type: 3}
+  - {fileID: 2800000, guid: 7218a3c9c27b25e47909bba0d68ab24e, type: 3}
+  tags: []

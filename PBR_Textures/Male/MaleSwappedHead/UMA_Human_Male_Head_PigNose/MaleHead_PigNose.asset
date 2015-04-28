@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c4834e6077abe64e968f9f87c9ac70a, type: 3}
+  m_Name: MaleHead_PigNose
+  m_EditorClassIdentifier: 
+  overlayName: MaleHead_PigNose
+  rect:
+    serializedVersion: 2
+    x: 480
+    y: 192
+    width: 64
+    height: 128
+  textureList:
+  - {fileID: 2800000, guid: eb5a2fe8cf539354884fda721709fdf4, type: 3}
+  - {fileID: 2800000, guid: 82eb1f481850c8e459c0e436cd04d648, type: 3}
+  - {fileID: 2800000, guid: 4421f0f9bc7ea8b42aec61d3b3f2d9b6, type: 3}
+  tags: []

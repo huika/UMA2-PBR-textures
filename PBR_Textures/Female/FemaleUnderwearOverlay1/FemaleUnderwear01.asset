@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c4834e6077abe64e968f9f87c9ac70a, type: 3}
+  m_Name: FemaleUnderwear01
+  m_EditorClassIdentifier: 
+  overlayName: FemaleUnderwear01
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 512
+    width: 1024
+    height: 512
+  textureList:
+  - {fileID: 2800000, guid: 693092114d295be4592032db9f8eb087, type: 3}
+  - {fileID: 2800000, guid: 8651a5bc6f2cc0a449c0a652d246c03b, type: 3}
+  - {fileID: 2800000, guid: 33225d0331acdf24ebd1f1ea5c510608, type: 3}
+  tags: []

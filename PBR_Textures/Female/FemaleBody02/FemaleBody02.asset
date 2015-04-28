@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c4834e6077abe64e968f9f87c9ac70a, type: 3}
+  m_Name: FemaleBody02
+  m_EditorClassIdentifier: 
+  overlayName: FemaleBody02
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  textureList:
+  - {fileID: 2800000, guid: ed7aa17ce3fe83d4aa8f8d553575dbfe, type: 3}
+  - {fileID: 2800000, guid: a361cbfbe2c227342bffa07d48aa5e58, type: 3}
+  - {fileID: 2800000, guid: d88ec6a4196197847bee7dd23b84db49, type: 3}
+  tags: []
